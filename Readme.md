@@ -27,4 +27,6 @@ Cracking the hidden message
 * [Final result: run from Main.java*](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/src/Main.java)
 * [Source code](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/src)
 * [Screenshot](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/screenshot/Capture.JPG)
+
 > \*Required external library: [courserajava.jar](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/tree/master/VigenereBreaker/external)
+> courserajava.jar is provided by [DukeLearnToProgram](www.dukelearntoprogram.com)
