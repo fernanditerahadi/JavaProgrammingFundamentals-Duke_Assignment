@@ -19,7 +19,7 @@ Generating random words by way of training the word selection based on an input 
 * [Final result: run from Main.java*](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/WordNGram/src/Main.java)
 * [Source code](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/WordNGram/src)
 * [Screenshot](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/WordNGram/screenshot/Capture-1.JPG)
-> \*Required external library: coursera.jar
+
 
 #### Vigenere Breaker
 Cracking the hidden message
@@ -27,4 +27,4 @@ Cracking the hidden message
 * [Final result: run from Main.java*](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/src/Main.java)
 * [Source code](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/src)
 * [Screenshot](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/screenshot/Capture.JPG)
-> \*Required external library: coursera.jar
+> \*Required external library: [courserajava.jar](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/tree/master/VigenereBreaker/external)
