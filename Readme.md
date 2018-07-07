@@ -11,20 +11,20 @@ Recommend movies to a given user  based on ratings by way of calculating how
 similar a given rater is to another user.
 
 * [Final result](http://www.dukelearntoprogram.com/capstone/recommender.php?id=E9UnRgv1lpmA5N)
-* [Source code]()
+* [Source code](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/tree/master/MovieRecommender/src)
 
 #### Markov Word N-Gram
 Generating random words by way of training the word selection based on an input text
 
-* [Final result: run from Main.java*]()
-* [Source code]()
-* [Screenshot]()
+* [Final result: run from Main.java*](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/WordNGram/src/Main.java)
+* [Source code](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/WordNGram/src)
+* [Screenshot](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/WordNGram/screenshot/Capture-1.JPG)
 > \*Required external library: coursera.jar
 
 #### Vigenere Breaker
 Cracking the hidden message
 
-* [Final result: run from Main.java*]()
-* [Source code]()
-* [Screenshot]()
+* [Final result: run from Main.java*](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/src/Main.java)
+* [Source code](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/src)
+* [Screenshot](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/screenshot/Capture.JPG)
 > \*Required external library: coursera.jar
