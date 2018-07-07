@@ -29,4 +29,4 @@ Cracking the hidden message
 * [Screenshot](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/blob/master/VigenereBreaker/screenshot/Capture.JPG)
 
 > \*Required external library: [courserajava.jar](https://github.com/vinsensiusfernandi/JavaProgrammingFundamentals-Duke_Assignment/tree/master/VigenereBreaker/external)
-> by [DukeLearnToProgram](www.dukelearntoprogram.com)
+> by [DukeLearnToProgram](http://www.dukelearntoprogram.com/)
